@@ -10,4 +10,4 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
- .git.source
+.git.source
